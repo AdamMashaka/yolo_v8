@@ -9,7 +9,7 @@
 
 ## data
 
-The video I used in this tutorial can be downloaded [here](https://drive.google.com/file/d/12sBfgLICdQEnDSOkVFZiJuUE6d3BeanT/view?usp=sharing).
+The video I used in this tutorial can be downloaded [here](https://www.pexels.com/video/traffic-flow-in-the-highway-2103099/).
 
 ## models
 
